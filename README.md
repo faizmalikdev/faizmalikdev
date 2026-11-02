@@ -124,9 +124,6 @@ I'm continuously improving my problem-solving skills while building full-stack a
 
 </p>
 
-[Email me](mailto:faizmalik93320@gmail.com)
-
----
 
 <p align="center">
   💡 <b>"Code. Build. Learn. Repeat."</b>
@@ -135,3 +132,7 @@ I'm continuously improving my problem-solving skills while building full-stack a
 <p align="center">
   ⭐ If you find my projects useful, consider giving them a star!
 </p>
+[Email me](mailto:faizmalik93320@gmail.com)
+
+---
+
