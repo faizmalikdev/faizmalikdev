@@ -108,7 +108,6 @@ I'm continuously improving my problem-solving skills while building full-stack a
 - **Studying:** MCA at Mangalayatan University (2025 to present). BCA at Dr. MPS Group of Institutions, College of Business Studies (2022 to 2025).
 - **Experience:** Full Stack Web Development Intern at the International Institute of SDGs and Public Policy Research (May to July 2026), building React components and connecting them to backend APIs.
 
-<img src="assets/footer.svg" width="100%" alt="Let’s connect. Reach Faiz Malik on LinkedIn or by email.">
 
 ## 🌐 Connect With Me
 
@@ -123,7 +122,9 @@ I'm continuously improving my problem-solving skills while building full-stack a
 </a>
 
 </p>
+[Email me](mailto:faizmalik93320@gmail.com)
 
+---
 
 <p align="center">
   💡 <b>"Code. Build. Learn. Repeat."</b>
@@ -132,7 +133,6 @@ I'm continuously improving my problem-solving skills while building full-stack a
 <p align="center">
   ⭐ If you find my projects useful, consider giving them a star!
 </p>
-[Email me](mailto:faizmalik93320@gmail.com)
 
----
+<img src="assets/footer.svg" width="100%" alt="Let’s connect. Reach Faiz Malik on LinkedIn or by email.">
 
