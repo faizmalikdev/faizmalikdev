@@ -1,72 +1,19 @@
-# 👋 Hi, I'm Faiz Malik
+<img src="assets/hero.svg" width="100%" alt="Faiz Malik. MCA student and full stack developer who builds MERN web apps. Open to software developer and full stack roles.">
 
-<h3 align="center">Full Stack Developer | MERN Stack Developer | DSA in C++</h3>
+**Faiz Malik** · MCA Student & Full Stack Developer · DSA in C++
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Developer;React.js+Developer;Node.js+%26+Express.js;MongoDB+Developer;WebRTC+%26+Socket.io;DSA+in+C%2B%2B;Building+Real-World+Projects." />
-</p>
+I'm an MCA student and full stack developer who builds MERN web apps, from real-time video calls using WebRTC and Socket.io to booking platforms with JWT authentication. I recently completed a full stack internship and I'm looking for software developer or full stack roles.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faiz-dev19&label=Profile%20Views&color=0e75b6&style=flat" alt="Faiz Malik" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🚀 Full Stack Developer passionate about building real-world web applications.
-
-💻 Working with the **MERN Stack** to create scalable and user-friendly applications.
-
-⚛️ Experienced with **React.js, JavaScript, Tailwind CSS, MUI, and Vite**.
-
-🧠 Building backend applications using **Node.js, Express.js, REST APIs, and JWT authentication**.
-
-🗄️ Working with **MongoDB and MySQL** for database management.
-
-📹 Exploring real-time technologies like **WebRTC and Socket.io** by building video conferencing applications.
-
-📚 Currently improving my **Data Structures & Algorithms skills using C++**.
-
-🎯 My goal is to become a strong **Full Stack Developer** and build production-ready applications.
-
----
+[LinkedIn](https://linkedin.com/in/faizmalikdev) · [Email](mailto:faizmalik93320@gmail.com)
 
 ## ⚡ Tech Stack
 
-### 🎨 Frontend
+<picture>
+  <source media="(max-width:640px)" srcset="assets/tech-stack-mobile.svg">
+  <img src="assets/tech-stack.svg" width="100%" alt="Technologies I use: JavaScript, C++, HTML, CSS, React, Tailwind CSS, Node.js, Express.js, MongoDB, MySQL, Socket.io, WebRTC, Git, GitHub, Postman, Linux and AWS.">
+</picture>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🔐 Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=webRTC" />
-</p>
-
-**WebRTC • Socket.io • REST APIs • JWT • Cloudinary • MapTiler**
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
+**Also used:** Vite, MUI, REST APIs, JWT, Cloudinary and MapTiler.
 
 ## 🚀 Featured Projects
 
@@ -76,15 +23,17 @@ A real-time video conferencing application inspired by platforms like Zoom.
 
 **Tech:** React.js • Node.js • Express.js • WebRTC • Socket.io
 
+[Source](https://github.com/faizmalikdev/syncmeet-app) · [Live demo](https://syncmeet-frontend-iby8.onrender.com/)
+
 ✨ Features:
 
-🎥 Real-time video calling
-🎙️ Audio & microphone controls
-🖥️ Screen sharing
-💬 Real-time chat
-📞 End call functionality
-👥 Multiple-user communication
-🔄 Real-time signaling using Socket.io
+- 🎥 Real-time video calling
+- 🎙️ Audio & microphone controls
+- 🖥️ Screen sharing
+- 💬 Real-time chat
+- 📞 End call functionality
+- 👥 Multiple-user communication
+- 🔄 Real-time signaling using Socket.io
 
 ---
 
@@ -94,15 +43,17 @@ A full-stack accommodation platform inspired by Airbnb.
 
 **Tech:** MERN Stack • MongoDB • Express.js • React.js • Node.js
 
+[Source](https://github.com/faizmalikdev/Airnest-airbnb-) · [Live demo](https://airnest-airbnb.onrender.com/)
+
 ✨ Features:
 
-🏡 Property listings
-🔐 User authentication
-📍 Location & map integration
-☁️ Cloudinary image uploads
-🗺️ MapTiler geocoding
-📱 Responsive UI
-🔑 JWT-based authentication
+- 🏡 Property listings
+- 🔐 User authentication
+- 📍 Location & map integration
+- ☁️ Cloudinary image uploads
+- 🗺️ MapTiler geocoding
+- 📱 Responsive UI
+- 🔑 JWT-based authentication
 
 ---
 
@@ -152,19 +103,28 @@ I'm continuously improving my problem-solving skills while building full-stack a
 
 ---
 
+## 👨‍💻 About Me
+
+- **Studying:** MCA at Mangalayatan University (2025 to present). BCA at Dr. MPS Group of Institutions, College of Business Studies (2022 to 2025).
+- **Experience:** Full Stack Web Development Intern at the International Institute of SDGs and Public Policy Research (May to July 2026), building React components and connecting them to backend APIs.
+
+<img src="assets/footer.svg" width="100%" alt="Let’s connect. Reach Faiz Malik on LinkedIn or by email.">
+
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/faiz-dev19" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="35" />
+<a href="https://github.com/faizmalikdev" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub profile" />
 </a>
 
-<a href="https://www.linkedin.com/in/faiz-malik-34477a248/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+<a href="https://linkedin.com/in/faizmalikdev" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn profile" />
 </a>
 
 </p>
+
+[Email me](mailto:faizmalik93320@gmail.com)
 
 ---
 
