@@ -121,8 +121,12 @@ I'm continuously improving my problem-solving skills while building full-stack a
 <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn profile" />
 </a>
 
+<a href="https://faizmalik93320@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=email" height="35" alt="LinkedIn profile" />
+</a>
+
 </p>
-[Email me](mailto:faizmalik93320@gmail.com)
+
 
 ---
 
