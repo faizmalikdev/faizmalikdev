@@ -122,7 +122,7 @@ I'm continuously improving my problem-solving skills while building full-stack a
 </a>
 
 <a href="https://faizmalik93320@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=email" height="35" alt="LinkedIn profile" />
+<img src="https://skillicons.dev/icons?i=gmail" height="35" alt="LinkedIn profile" />
 </a>
 
 </p>
